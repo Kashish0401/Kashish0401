@@ -1,3 +1,6 @@
+<img align="center" src="https://raw.githubusercontent.com/Kashish0401/Kashish0401/main/Banner.jpg"/>
+
+
 <h1 align="center">Hi 👋, I'm Kashish Agrawal</h1>
 <h3 align="center">A passionate CSE student from India!</h3>
 
